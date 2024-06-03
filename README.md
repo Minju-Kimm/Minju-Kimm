@@ -1,24 +1,21 @@
-
-<!--타이틀 부분-->
-
-<!--내용 부분-->
 <div align="left">
   
 ![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&text=Welcome%20to%20Minju's%20GitHub%20👋&animation=twinkling&fontSize=35&fontAlignY=40&fontAlign=70&height=250)
 ---
   
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FMinju-Kimm%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FMinju-Kimm%2Fhit-counter&count_bg=%23C0C0C0&title_bg=%23221A5F&icon=awesomelists.svg&icon_color=%23E7E7E7&title=hits&edge_flat=true"/></a>
+<br>
 
-[![Minju's GitHub stats](https://github-readme-stats.vercel.app/api?username=Minju-Kimm&include_all_commits=true&theme=nord&hide_border=true&count_private=true)](https://github.com/Minju-Kimm/github-readme-stats)
+![Minju's GitHub stats](https://github-readme-stats.vercel.app/api?username=Minju-Kimm&show_icons=true&theme=dracula)
  
 <br>
 
 ## 💻 DEV's log 💻
 <div style="display:flex; flex-direction:row;">
-    <a href="https://easyhomputer.tistory.com">
-        <img src="https://img.shields.io/badge/Tistory-000000?style=for-the-badge&logo=Tistory&logoColor=white"> 
+    <a href="https://velog.io/@kirby0418">
+        <img src="https://img.shields.io/badge/-Velog-20c997?style=for-the-badge&logo=Velog&logoColor=white"> 
     </a>
-    <a href="https://www.notion.so/homputer/Notion-3a51e19fa20a4c08a3c1d281a7a2c741">
+    <a href="https://minju0418.notion.site/Minju-Kim-c74d517660984c308c63084cdb1161b7?pvs=4">
         <img src="https://img.shields.io/badge/Notion-9999FF?style=for-the-badge&logo=Notion&logoColor=white"> 
     </a>
   
